@@ -1,4 +1,4 @@
- # TV#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
                                                                 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="http://116.202.210.205/icn/icons/rai2.png" group-title="",Rai 2 
