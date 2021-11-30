@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="h//116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=
  
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="http://116.202.210.205/icn/icons/rai2.png" group-title="",Rai 2 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
@@ -220,8 +220,7 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="KissKissItaliaTV.it" tvg-name="KissKissItaliaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="",KissKiss 
 http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist_w573387836.m3u8
  
-#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="VirginRadioTV.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/virgintv.png" group-title="",VirginRadio TV
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="VirginRadioTV.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/virgintv.png" group-title=
  
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/25/RTL_102_5_logo.svg/240px-RTL_102_5_logo.svg.png" group-title="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
