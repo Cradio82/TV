@@ -226,7 +226,7 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/25/RTL_102_5_logo.svg/240px-RTL_102_5_logo.svg.png" group-title="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
  
-#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="https://cloud.radiofreccia.it/Radiofreccia/News/Writer/1000x1000/redazione-web-ubros.jpg" group-title="",Radio Freccia
+#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="https://cloud.radiofreccia.it/assets/www.radiofreccia.it/618556cc/img/layout/logo-freccia-no-claim.png" group-title="",Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
  
 #EXTINF:-1 tvg-id="Radiozeta.it" tvg-name="Radiozeta.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Radio_Zeta_-_Logo_2020.svg/240px-Radio_Zeta_-_Logo_2020.svg.png" group-title="",Radio Zeta
