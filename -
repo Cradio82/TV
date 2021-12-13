@@ -55,10 +55,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f70
 #EXTINF:-1 tvg-id="TopFree - Rakuten TV" tvg-name="TopFree - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBAJ4900011Y4_20200923T100442.png" group-title="",Rakuten Film 
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="PlutoTVFilm.it" tvg-name="PlutoTVFilm.it" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG.png" group-title="",Pluto Film
+#EXTINF:-1 tvg-id="Pluto TV Film" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG.png" group-title="",Pluto Film
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="Pluto TV Film" tvg-name="Pluto TV Film" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/ITAJ38000055E_20211110T010936.png" group-title="",Pluto Film
+#EXTINF:-1 tvg-id="ITAJ38000055E" tvg-chno="4505" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/ITAJ38000055E_20211110T010936.png" group-title="",Pluto Film
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6116413793706b0007f04bb1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 tvg-id="Commedia - Rakuten TV" tvg-name="Commedia - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/ITAJ4500019R9_20210923T010508.png" group-title="",Rakuten Commedia
@@ -97,7 +97,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d0
 #EXTINF:-1 tvg-id="Romantici – Rakuten TV" tvg-name="Romantici - Rakuten TV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/USBA3800001E0_20201007T012244.png" group-title="",Rakuten Romantici 
 https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.it" tvg-name="PlutoTVFilmRomantici.it" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="",Pluto Romantici
+#EXTINF:-1 tvg-id="ITAJ3800009J1" tvg-chno="4264" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="",Pluto Romantici
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Pluto TV Film Romantici" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ITAJ3800009J1_20211208T015329.png" group-title="",Pluto Romantici
@@ -105,9 +105,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611644bd5f76a40007d262
 
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RaiMovie.it" tvg-logo="http://116.202.210.205/icn/icons/raimovie.png" group-title="",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-
-#EXTINF:-1 tvg-id="ITAJ38000055E" tvg-chno="4505" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/ITAJ38000055E_20211110T010936.png" group-title="Italy",Pluto TV Film
-http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6116413793706b0007f04bb1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&em
  
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai4.it" tvg-logo="http://116.202.210.205/icn/icons/rai4.png" group-title="",Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
