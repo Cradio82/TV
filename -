@@ -58,7 +58,7 @@ https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Film" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG.png" group-title="",Pluto Film
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="ITAJ38000055E" tvg-chno="4505" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/ITAJ38000055E_20211110T010936.png" group-title="",Film
+#EXTINF:-1 tvg-id="ITAJ38000055E" tvg-chno="4505" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/ITAJ38000055E_20211110T010936.png" group-title="",Pluto TV Film
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6116413793706b0007f04bb1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 tvg-id="Commedia - Rakuten TV" tvg-name="Commedia - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/ITAJ4500019R9_20210923T010508.png" group-title="",Rakuten Commedia
@@ -100,7 +100,7 @@ https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITAJ3800009J1" tvg-chno="4264" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="",Pluto Romantici
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Pluto TV Film Romantici" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ITAJ3800009J1_20211208T015329.png" group-title="",Romantici
+#EXTINF:-1 tvg-id="Pluto TV Film Romantici" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ITAJ3800009J1_20211208T015329.png" group-title="",Pluto TV Film Romantici
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611644bd5f76a40007d26296/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RaiMovie.it" tvg-logo="http://116.202.210.205/icn/icons/raimovie.png" group-title="",Rai Movie
