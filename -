@@ -8,34 +8,34 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
  
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="http://116.202.210.205/icn/icons/rete4.png" group-title="",Rete 4
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
  
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5.it" tvg-logo="http://116.202.210.205/icn/icons/canale5.png" group-title="",Canale 5
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
  
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/240px-Logo_Italia_1.svg.png" group-title="",Italia 1
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
  
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/yna9cYH.png" group-title="",Italia 2
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
  
 #EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="ParamountNetwork.it" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/58/Paramount_Network_logo_current.png/revision/latest?cb=20140603204211.png" group-title="",Paramount Network
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
  
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/20.png" group-title="", 20 Mediaset
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/cine34.png" group-title="",Cine34
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
  
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://iptv.speedhd10.com/logos/topcrime.png" group-title="",Top Crime
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
  
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="https://api.superguidatv.it/resources/Logos/214.png" group-title="",Iris
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
  
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="http://logo.premium-ott.com:8000/logo/focus.png" group-title="",Focus
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
  
 #EXTINF:-1 tvg-id="Spike.it" tvg-name="Spike.it" tvg-logo="http://iptv.speedhd10.com/logos/spike.png" group-title="",Spike
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
@@ -116,7 +116,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
  
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://134.255.234.197/logos/la5.png" group-title="",La 5
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
  
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/videolina.png" group-title="",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
@@ -128,7 +128,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
  
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="https://api.superguidatv.it/resources/Logos/294.png" group-title="",Mediaset Extra
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
  
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
@@ -161,10 +161,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
  
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="https://api.superguidatv.it/resources/Logos/228.png" group-title="",Boing
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
  
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://134.255.234.197/logos/cartoonito.png" group-title="",Cartoonito
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Anime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG.png" group-title="",Pluto Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
@@ -200,7 +200,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
  
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24.it" tvg-logo="http://116.202.210.205/icn/icons/tgcom24.png" group-title="",TGCOM 24
-https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
  
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SkyTG24.it" tvg-logo="http://134.255.234.197/skytg24.png" group-title="",Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
