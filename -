@@ -23,7 +23,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-name="TwentySeven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/768px-Twentyseven_logo.svg.png" group-title="",Twenty Seven
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ts)/manifest.mpd
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/cine34.png" group-title="",Cine34
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
