@@ -19,8 +19,11 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/yna9cYH.png" group-title="",Italia 2
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
  
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/20.png" group-title="", 20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/20.png" group-title="",20 Mediaset
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+
+#EXTINF:-1 tvg-id="TwentySeven.it" tvg-name="TwentySeven.it" tvg-logo="https://epg-guide.com/icn/icons/twentyseven.png" group-title="",Twenty Seven
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ts)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/cine34.png" group-title="",Cine34
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
