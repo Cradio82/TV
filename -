@@ -160,7 +160,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
  
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://116.202.210.205/icn/icons/cartonito.png" group-title="",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://116.202.210.205/icn/icons/cartoonito.png" group-title="",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Anime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG.png" group-title="",Pluto Anime
