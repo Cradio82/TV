@@ -31,7 +31,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://iptv.speedhd10.com/logos/topcrime.png" group-title="",Top Crime
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
  
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/c/cd/20210322112407%21Logo_Iris_TV.png" group-title="",Iris
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="https://i.imgur.com/HAUfhJN.png" group-title="",Iris
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
  
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="http://logo.premium-ott.com:8000/logo/focus.png" group-title="",Focus
