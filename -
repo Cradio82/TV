@@ -27,17 +27,14 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/cine34.png" group-title="",Cine 34
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
- 
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://iptv.speedhd10.com/logos/topcrime.png" group-title="",Top Crime
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
- 
+  
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="http://116.202.210.205/icn/icons/iris.png" group-title="",Iris
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo.it" tvg-logo="https://en.wikipedia.org/wiki/Cielo_%28TV_channel%29#/media/File:Logo_cielo.png" group-title="",Cielo
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/8b/Logo_cielo.png/800px-Logo_cielo.png" group-title="",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
 
-#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="http://134.255.234.197/logos/tv8.png" group-title="",TV8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="http://logo.premium-ott.com:8000/logo/tv8.png" group-title="",TV8
 https://www.mytivu.it/Application/Channels/TV8.php
 
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://134.255.234.197/logos/la7.png" group-title="",La 7
@@ -49,6 +46,9 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="http://logo.premium-ott.com:8000/logo/focus.png" group-title="",Focus
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
  
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+
 #EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="",Rakuten Azione
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
  
@@ -166,7 +166,7 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
  
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://116.202.210.205/icn/icons/cartoonito.png" group-title="",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://134.255.234.197/logos/cartoonito.png" group-title="",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Anime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG.png" group-title="",Pluto Anime
@@ -204,9 +204,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
  
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24.it" tvg-logo="http://116.202.210.205/icn/icons/tgcom24.png" group-title="",TGCOM 24
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
- 
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SkyTG24.it" tvg-logo="http://134.255.234.197/skytg24.png" group-title="",Sky TG24
-https://hlslive-web-dai-gcdn-skycdn-it.akamaized.net/linear/hls/pa/event/5FbXm2EaSmy6Hn5303wKSg/stream/dacc813e-b9ec-4b13-8ba4-83e3d142fd7f:BRU/master.m3u8
  
 #EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-name="Euronews in diretta" tvg-logo="https://api.superguidatv.it/v1/channels/117/logo?width=240" group-title="",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.tv/playlist.m3u8
