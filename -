@@ -20,7 +20,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
  
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/20.png" group-title="",20 Mediaset
-https://www.mytivu.it/Application/Channels/TV8.php
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 
 #EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/768px-Twentyseven_logo.svg.png" group-title="",Twenty Seven
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
@@ -28,11 +28,23 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/cine34.png" group-title="",Cine 34
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
  
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://iptv.speedhd10.com/logos/topcrime.png" group-title="",Top Crime
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
  
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="http://116.202.210.205/icn/icons/iris.png" group-title="",Iris
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo.it" tvg-logo="https://en.wikipedia.org/wiki/Cielo_%28TV_channel%29#/media/File:Logo_cielo.png" group-title="",Cielo
+https://www.mytivu.it/Application/Channels/Cielo.php
+
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="http://134.255.234.197/logos/tv8.png" group-title="",TV8
+https://www.mytivu.it/Application/Channels/TV8.php
+
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://134.255.234.197/logos/la7.png" group-title="",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+ 
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="La7d.it" tvg-logo="http://134.255.234.197/logos/la7d.png" group-title="",La 7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
  
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="http://logo.premium-ott.com:8000/logo/focus.png" group-title="",Focus
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
@@ -117,13 +129,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index
  
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/videolina.png" group-title="",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://134.255.234.197/logos/la7.png" group-title="",La 7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
- 
-#EXTINF:-1 tvg-id="La7d.it" tvg-name="La7d.it" tvg-logo="http://134.255.234.197/logos/la7d.png" group-title="",La 7d
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
- 
+  
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="http://116.202.210.205/icn/icons/mediasetextra.png" group-title="",Mediaset Extra
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
  
@@ -200,7 +206,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
  
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SkyTG24.it" tvg-logo="http://134.255.234.197/skytg24.png" group-title="",Sky TG24
-https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+https://hlslive-web-dai-gcdn-skycdn-it.akamaized.net/linear/hls/pa/event/5FbXm2EaSmy6Hn5303wKSg/stream/dacc813e-b9ec-4b13-8ba4-83e3d142fd7f:BRU/master.m3u8
  
 #EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-name="Euronews in diretta" tvg-logo="https://api.superguidatv.it/v1/channels/117/logo?width=240" group-title="",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.tv/playlist.m3u8
