@@ -117,7 +117,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611644bd5f76a40007d262
 https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/raimovie_1200/chunklist.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1658765088&tk2=b43ccb3f92bd032ba7fe1296e3f90e09a1f6828a482c1683faaae256d30c9492
  
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai4.it" tvg-logo="http://116.202.210.205/icn/icons/rai4.png" group-title="",Rai 4
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/playlist_ma.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1658678344&tof=86400&tk2=5c72b3c88ac9763296df1b8cf872080c7cbb79dbd4f6b60b14ae040dcf747f8d
+https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/rai4_1200/chunklist.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1658766435&tk2=89e6d7ef02865f7be009c071dd336139c62794c4681ef6ee2de97dfa8efe2aff
  
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai5.it" tvg-logo="http://116.202.210.205/icn/icons/rai5.png" group-title="",Rai 5
 https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1658764916&tk2=8acf437d750b0c0f48ea7a06ed7d5d1da5b24dd8d1b65ef7b59967310661ddeb
@@ -138,10 +138,10 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index
 https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1658765216&tk2=4465cf3875b710974be986424bfcc1a2c7412acedd9374d58836b0843e40c18f
  
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="http://116.202.210.205/icn/icons/raiscuola.png" group-title="",Rai Scuola
-https://raiscuola1-live.akamaized.net/hls/live/598335/raiscuola1/raiscuola1/raiscuola_1800/exp=1658765101~acl=%2fhls%2flive%2f598335%2fraiscuola1%2f*!%2fhls%2flive%2f598335-b%2fraiscuola1%2f*!%2f*.key~data=hdntl~hmac=6965a352d6ea1a4ccd59fc25bbe9c453f6b711efb771a2aaebfa54ff8b248c92/chunklist.m3u8?aka_me_session_id=AAAAAAAAAAAtv95iAAAAABO0Eh3zLgm7Rgih3eF84yWsgmoCfuhz3zoxeEx6xm7rpm3pD1Xc0GCOU67neMhwMH2PRyqx0ELs&aka_media_format_type=hls
+https://raiscuola1-live.akamaized.net/hls/live/598335/raiscuola1/raiscuola1/playlist.m3u8?hdnea=st=1658679493~exp=1658679643~acl=/*~hmac=d3bc1dbd3436e57f5fdc482266ec836058b74723566df347ca42e5d0c0e01768
  
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RaiStoria.it" tvg-logo="http://116.202.210.205/icn/icons/raistoria.png" group-title="",Rai Storia
-https://raistoria1-live.akamaized.net/hls/live/598337/raistoria1/raistoria1/playlist.m3u8?hdnea=st=1658678768~exp=1658678918~acl=/*~hmac=16be0d627a3cc89c68cbff9e63b1b7bf1802a64ac71f4d731715af4bfb0d49e1
+https://raistoria1-live.akamaized.net/hls/live/598337/raistoria1/raistoria1/playlist.m3u8?hdnea=st=1658679656~exp=1658679806~acl=/*~hmac=76e5587314e6dc26d6d44878679c5ef224ac96ebd59e3d6d89659f7f3048f411
  
 #EXTINF:-1 tvg-id="Pluto TV Documentari" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="",Pluto Documentari
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
