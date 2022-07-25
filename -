@@ -159,7 +159,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc
 https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8?hdnea=st=1658678945~exp=1658679095~acl=/*~hmac=1d4eb083d6e50347ec530b7332bae0b69c299ebf4aba9adbcba25c7f7ebb245d
  
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RaiGulp.it" tvg-logo="http://116.202.210.205/icn/icons/raigulp.png" group-title="",Rai Gulp
-http://5.135.92.133:52841/out/u/443_1.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
  
 #EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!.it" tvg-logo="http://116.202.210.205/icn/icons/super.png" group-title="",Super!
