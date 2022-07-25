@@ -1,12 +1,11 @@
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_2400/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1658761562&tk2=1d58e9f59fabc74ed521dde71aab71b34c14f7cc590c727756d1225e385f17cf
-
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
  
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="http://116.202.210.205/icn/icons/rai2.png" group-title="",Rai 2 
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1658764348&tk2=fed7acc41c1864963eb512b10b520e2aacf3fad78305012e1ef3929de02a4f40
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
  
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="http://116.202.210.205/icn/icons/rai3.png" group-title="",Rai 3
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rai3nodvr/hls/rai3nodvr_2400/chunklist.m3u8?baseuri=%2Frai3nodvr%2Fhls%2F&tstart=0&tend=1658764601&tk2=279c9961009e65a915195c3acc7443a607fbae05e78efba2a4a5afea26b1c869
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
  
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="http://116.202.210.205/icn/icons/rete4.png" group-title="",Rete 4
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
@@ -114,16 +113,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611644bd5f76a40007d26296/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RaiMovie.it" tvg-logo="http://116.202.210.205/icn/icons/raimovie.png" group-title="",Rai Movie
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/raimovie_1200/chunklist.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1658765088&tk2=b43ccb3f92bd032ba7fe1296e3f90e09a1f6828a482c1683faaae256d30c9492
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
  
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai4.it" tvg-logo="http://116.202.210.205/icn/icons/rai4.png" group-title="",Rai 4
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/rai4_1200/chunklist.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1658766435&tk2=89e6d7ef02865f7be009c071dd336139c62794c4681ef6ee2de97dfa8efe2aff
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
  
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai5.it" tvg-logo="http://116.202.210.205/icn/icons/rai5.png" group-title="",Rai 5
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1658764916&tk2=8acf437d750b0c0f48ea7a06ed7d5d1da5b24dd8d1b65ef7b59967310661ddeb
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
  
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RaiPremium.it" tvg-logo="http://116.202.210.205/icn/icons/raipremium.png" group-title="",Rai Premium
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/raipremium_2400/chunklist.m3u8?baseuri=%2Fraipremium1%2Fhls%2F&tstart=0&tend=1658764998&tk2=c6ef4bff24ee97eb9dd57a961c31f820bbbd029f879c17753063ec13e26cc32a
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
  
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://134.255.234.197/logos/la5.png" group-title="",La 5
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
@@ -135,13 +134,13 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
  
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1658765216&tk2=4465cf3875b710974be986424bfcc1a2c7412acedd9374d58836b0843e40c18f
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
  
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="http://116.202.210.205/icn/icons/raiscuola.png" group-title="",Rai Scuola
-https://raiscuola1-live.akamaized.net/hls/live/598335/raiscuola1/raiscuola1/playlist.m3u8?hdnea=st=1658679493~exp=1658679643~acl=/*~hmac=d3bc1dbd3436e57f5fdc482266ec836058b74723566df347ca42e5d0c0e01768
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
  
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RaiStoria.it" tvg-logo="http://116.202.210.205/icn/icons/raistoria.png" group-title="",Rai Storia
-https://raistoria1-live.akamaized.net/hls/live/598337/raistoria1/raistoria1/playlist.m3u8?hdnea=st=1658679656~exp=1658679806~acl=/*~hmac=76e5587314e6dc26d6d44878679c5ef224ac96ebd59e3d6d89659f7f3048f411
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
  
 #EXTINF:-1 tvg-id="Pluto TV Documentari" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="",Pluto Documentari
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
@@ -156,14 +155,10 @@ https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="http://116.202.210.205/icn/icons/raiyoyo.png" group-title="",Rai YoYo 
-https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8?hdnea=st=1658678945~exp=1658679095~acl=/*~hmac=1d4eb083d6e50347ec530b7332bae0b69c299ebf4aba9adbcba25c7f7ebb245d
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
  
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RaiGulp.it" tvg-logo="http://116.202.210.205/icn/icons/raigulp.png" group-title="",Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-
- 
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!.it" tvg-logo="http://116.202.210.205/icn/icons/super.png" group-title="",Super!
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
  
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
@@ -202,7 +197,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
  
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RaiNews.it" tvg-logo="http://116.202.210.205/icn/icons/rainews24.png" group-title="",Rai News 24
-https://streamcdnr34-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1658679239&tof=86400&tk2=bc6ab04701ff10d2633d8b577b3d1d320c216cd64ea3a37cc6bbdb483352f1ed
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
  
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24.it" tvg-logo="http://116.202.210.205/icn/icons/tgcom24.png" group-title="",TGCOM 24
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
