@@ -163,16 +163,16 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
  
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="logo.premium-ott.com:8000/logo/cartoonito.png" group-title="",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonito.png" group-title="",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Anime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG.png" group-title="",Pluto Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="Nasa.it" tvg-name="Nasa.it" tvg-logo="https://logo.premium-ott.com:8000/logo/nasa.png" group-title="",Nasa
+#EXTINF:-1 tvg-id="Nasa.it" tvg-name="Nasa.it" tvg-logo="http://logo.premium-ott.com:8000/logo/nasa.png" group-title="",Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
  
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="https://logo.premium-ott.com:8000/logo/nove.png" group-title="",Nove
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://logo.premium-ott.com:8000/logo/nove.png" group-title="",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
  
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FoodNetwork.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="",Food Network
@@ -181,19 +181,19 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Il Banco Dei Pugni" tvg-name="Pluto TV Il Banco Dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="",Il Banco Dei Pugni
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend.it" tvg-logo="logo.premium-ott.com:8000/logo/motortrend.png" group-title="",MotorTrend
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend.it" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png" group-title="",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
  
 #EXTINF:-1 tvg-id="ITAJ4500024DT" tvg-name="Motor1TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/ITAJ4500024DT_20210609T004847.png" group-title="",Motor 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="https://logo.premium-ott.com:8000/logo/dmax.png" group-title="",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="http://logo.premium-ott.com:8000/logo/dmax.png" group-title="",DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
  
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo.it" tvg-logo="https://logo.premium-ott.com:8000/logo/giallo.png" group-title="",Giallo
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo.it" tvg-logo="http://logo.premium-ott.com:8000/logo/giallo.png" group-title="",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?
  
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="https://logo.premium-ott.com:8000/logo/realtime.png" group-title="",Real Time
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://logo.premium-ott.com:8000/logo/realtime.png" group-title="",Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
  
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RaiNews.it" tvg-logo="http://116.202.210.205/icn/icons/rainews24.png" group-title="",Rai News 24
@@ -217,10 +217,10 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1.it" tvg-logo="http://116.202.210.205/icn/icons/vh1.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?
  
-#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="https://logo.premium-ott.com:8000/logo/r101.png" group-title="",R101
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/r101.png" group-title="",R101
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8 
  
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio105TV.it" tvg-logo="https://logo.premium-ott.com:8000/logo/radio105.png" group-title="",105
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio105TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radio105.png" group-title="",105
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
  
 #EXTINF:-1 tvg-id="KissKissItaliaTV.it" tvg-name="KissKissItaliaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="",KissKiss 
