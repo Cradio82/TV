@@ -37,7 +37,7 @@ https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="http://logo.premium-ott.com:8000/logo/tv8.png" group-title="",TV8
 https://www.mytivu.it/Application/Channels/TV8.php
 
-#EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/la7hd.png" group-title="",La 7
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
  
 #EXTINF:-1 tvg-id="La7d.it" tvg-name="La7d.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/la7d.png" group-title="",La 7d
@@ -124,7 +124,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RaiPremium.it" tvg-logo="http://116.202.210.205/icn/icons/raipremium.png" group-title="",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
  
-#EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/la5.png" group-title="",La 5
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
  
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/videolina.png" group-title="",Videolina
