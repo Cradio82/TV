@@ -37,6 +37,12 @@ https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="http://logo.premium-ott.com:8000/logo/tv8.png" group-title="",TV8
 https://www.mytivu.it/Application/Channels/TV8.php
 
+#EXTINF:-1 tvg-id="rsil1.it" tvg-name="rsil1.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="",RSI La1
+http://190.2.155.162/RSI1/index.m3u8
+
+#EXTINF:-1 tvg-id="rsil2.it" tvg-name="rsil2.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-exajamz2s73e.png" group-title="",RSI La2
+http://190.2.155.162/RSI2/index.m3u8
+
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
  
@@ -133,7 +139,7 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="http://116.202.210.205/icn/icons/mediasetextra.png" group-title="",Mediaset Extra
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
  
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSportPlus.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
  
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="http://116.202.210.205/icn/icons/raiscuola.png" group-title="",Rai Scuola
@@ -172,29 +178,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc
 #EXTINF:-1 tvg-id="Nasa.it" tvg-name="Nasa.it" tvg-logo="http://logo.premium-ott.com:8000/logo/nasa.png" group-title="",Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
  
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
- 
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FoodNetwork.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
- 
 #EXTINF:-1 tvg-id="Pluto TV Il Banco Dei Pugni" tvg-name="Pluto TV Il Banco Dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="",Il Banco Dei Pugni
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend.it" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png" group-title="",MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
- 
 #EXTINF:-1 tvg-id="ITAJ4500024DT" tvg-name="Motor1TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/ITAJ4500024DT_20210609T004847.png" group-title="",Motor 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="http://logo.premium-ott.com:8000/logo/dmax.png" group-title="",DMAX
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
- 
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo.it" tvg-logo="http://logo.premium-ott.com:8000/logo/giallo.png" group-title="",Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?
- 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://116.202.210.205/icn/icons/realtime.png" group-title="",Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
  
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RaiNews.it" tvg-logo="http://116.202.210.205/icn/icons/rainews24.png" group-title="",Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
