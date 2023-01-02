@@ -55,7 +55,7 @@ https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Film Azione" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png" group-title="",Pluto Azione 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="rakutentvthriller.it" tvg-name="rakutentvthriller.it" tvg-logo="http://thrillernord.it/wp-content/themes/thrillernord/img/thrillernordLogo.png" group-title="",Rakuten Thriller
+#EXTINF:-1 tvg-id="Thriller - Rakuten TV" tvg-name="Thriller - Rakuten TV" tvg-logo="http://thrillernord.it/wp-content/themes/thrillernord/img/thrillernordLogo.png" group-title="",Rakuten Thriller
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Film Thriller" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" group-title="",Pluto Thriller 
