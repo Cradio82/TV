@@ -163,7 +163,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonito.png" group-title="",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
  
-#EXTINF:-1 tvg-id="Nasa.it" tvg-name="Nasa.it" tvg-logo="http://logo.premium-ott.com:8000/logo/nasa.png" group-title="",Nasa
+#EXTINF:-1 tvg-id="608aa5e995132a00075f7005" tvg-name="608aa5e995132a00075f7005" tvg-logo="http://logo.premium-ott.com:8000/logo/nasa.png" group-title="",Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Il Banco Dei Pugni" tvg-name="Pluto TV Il Banco Dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="",Il Banco Dei Pugni
