@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
+.#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
  
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="http://116.202.210.205/icn/icons/rai2.png" group-title="",Rai 2 
@@ -187,9 +187,6 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/companytv.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioPiterpanTV.it" tvg-name="RadioPiterpanTV.it" tvg-logo="http://116.202.210.205/icn/icons/radiopiterpantv.png" group-title="",Piterpan
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1.it" tvg-logo="http://116.202.210.205/icn/icons/vh1.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?
  
