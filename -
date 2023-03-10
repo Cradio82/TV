@@ -130,7 +130,7 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="http://116.202.210.205/icn/icons/mediasetextra.png" group-title="",Mediaset Extra
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
  
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
+#EXTINF:-1 tvg-id="RaiSport+ hd.it" tvg-name="RaiSport+ hd.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
  
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="http://116.202.210.205/icn/icons/raiscuola.png" group-title="",Rai Scuola
