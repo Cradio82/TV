@@ -193,9 +193,6 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio105TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radio105.png" group-title="",105
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
  
-#EXTINF:-1 tvg-id="KissKissItaliaTV.it" tvg-name="KissKissItaliaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="",KissKiss 
-http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist_w573387836.m3u8
- 
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="VirginRadioTV.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/virgintv.png" group-title="",VirginRadio
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
  
