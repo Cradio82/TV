@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
  
@@ -8,28 +9,28 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
  
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="http://116.202.210.205/icn/icons/rete4.png" group-title="",Rete 4
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5.it" tvg-logo="http://116.202.210.205/icn/icons/canale5.png" group-title="",Canale 5
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/240px-Logo_Italia_1.svg.png" group-title="",Italia 1
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/yna9cYH.png" group-title="",Italia 2
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
- 
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/20.png" group-title="",20 Mediaset
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/768px-Twentyseven_logo.svg.png" group-title="",Twenty Seven
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/cine34.png" group-title="",Cine 34
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
   
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="http://116.202.210.205/icn/icons/iris.png" group-title="",Iris
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
@@ -38,10 +39,10 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
  
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="http://logo.premium-ott.com:8000/logo/focus.png" group-title="",Focus
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="",Rakuten Azione
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -49,13 +50,13 @@ https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Film Azione" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png" group-title="",Pluto Azione 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="Rakutenthrilleritrakutentv.it" tvg-name="Rakutenthrilleritrakutentv.it" tvg-logo="http://thrillernord.it/wp-content/themes/thrillernord/img/thrillernordLogo.png" group-title="",Rakuten Thriller
+#EXTINF:-1 tvg-id="Thriller - Rakuten TV" tvg-name="Thriller - Rakuten TV" tvg-logo="http://thrillernord.it/wp-content/themes/thrillernord/img/thrillernordLogo.png" group-title="",Rakuten Thriller
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Film Thriller" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" group-title="",Pluto Thriller 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="Rakutentopfreeitrakutentv.it" tvg-name="Rakutentopfreeitrakutentv.it" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBAJ4900011Y4_20200923T100442.png" group-title="",Rakuten Film 
+#EXTINF:-1 tvg-id="Film top - Rakuten TV" tvg-name="Film top - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBAJ4900011Y4_20200923T100442.png" group-title="",Rakuten Film 
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Plutotvfilm.it" tvg-name="Plutotvfilm.it" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG.png" group-title="",Pluto Film
@@ -97,13 +98,13 @@ https://1d1ed0dfb4a94f9ea120ff72ce028e9c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Pluto TV Crime" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG.png" group-title="",Pluto Crime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="Rakuten Romance" tvg-name="Rakuten Romance" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/USBA3800001E0_20201007T012244.png" group-title="",Rakuten Romantici 
+#EXTINF:-1 tvg-id="Rakuten Romantici" tvg-name="Rakuten Romantici" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/USBA3800001E0_20201007T012244.png" group-title="",Rakuten Romantici 
 https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pluto Tv In Love" tvg-name="Pluto Tv In Love" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="",Pluto In Love
+#EXTINF:-1 tvg-id="Plutotvfilmromantici.it" tvg-name="Plutotvfilmromantici.it" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="",Pluto Romantici
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Pluto TV Film Romantici" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ITAJ3800009J1_20211208T015329.png" group-title="",Pluto Romantici 
+#EXTINF:-1 tvg-id="Pluto TV Film Romantici" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ITAJ3800009J1_20211208T015329.png" group-title="",Pluto Romantici 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611644bd5f76a40007d26296/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RaiMovie.it" tvg-logo="http://116.202.210.205/icn/icons/raimovie.png" group-title="",Rai Movie
@@ -119,7 +120,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
  
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/videolina.png" group-title="",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
@@ -127,7 +128,7 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="http://116.202.210.205/icn/icons/mediasetextra.png" group-title="",Mediaset Extra
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
  
-#EXTINF:-1 tvg-id="Raisportplus.it" tvg-name="Raisportplus.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
  
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="http://116.202.210.205/icn/icons/raiscuola.png" group-title="",Rai Scuola
@@ -184,6 +185,9 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/companytv.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioPiterpanTV.it" tvg-name="RadioPiterpanTV.it" tvg-logo="http://116.202.210.205/icn/icons/radiopiterpantv.png" group-title="",Piterpan
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+ 
 #EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1.it" tvg-logo="http://116.202.210.205/icn/icons/vh1.png" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?
  
@@ -193,10 +197,13 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio105TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radio105.png" group-title="",105
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
  
+#EXTINF:-1 tvg-id="KissKissItaliaTV.it" tvg-name="KissKissItaliaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="",KissKiss 
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist_w573387836.m3u8
+ 
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="VirginRadioTV.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/virgintv.png" group-title="",VirginRadio
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
  
-#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/rtl1025.png" group-title="",RTL 102.5
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/25/RTL_102_5_logo.svg/240px-RTL_102_5_logo.svg.png" group-title="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
  
 #EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radiofreccia.png" group-title="",Radio Freccia
