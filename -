@@ -61,7 +61,7 @@ https://i.mjh.nz/SamsungTVPlus/ITBD4400002Q8.m3u8
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://116.202.210.205/icn/icons/realtime.png" group-title="",Real Time
 https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="http://116.202.210.205/icn/icons/dmax.png" group-title="",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="http://logo.premium-ott.com:8000/logo/dmax.png" group-title="",DMAX
 https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV.it" tvg-logo="http://116.202.210.205/icn/icons/hgtv.png" group-title="",HGTV
@@ -93,8 +93,6 @@ https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Totò" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG.png" group-title="",Pluto TV Totò
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/viaggi.png" group-title="PlutoTV",Pluto Tv Viaggi
-https://i.mjh.nz/PlutoTV/63c923944207be0007fd0887-alt.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Film Commedia" tvg-name="Pluto TV Film Commedia" tvg-logo="https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png" group-title="",Pluto Commedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
@@ -183,7 +181,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2.it" tvg-logo="http://116.202.210.205/icn/icons/k2.png" group-title="",K2
 https://i.mjh.nz/SamsungTVPlus/ITBD440000698.m3u8
 
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="http://116.202.210.205/icn/icons/k2.png" group-title="",Frisbee
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="http://logo.premium-ott.com:8000/logo/frisbee.png" group-title="",Frisbee
 https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
  
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
@@ -223,15 +221,15 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?
  
 #EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/r101.png" group-title="",R101
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8 
  
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio105TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radio105.png" group-title="",105
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-name="VirginRadioTV.it" tvg-logo="https://canalisat.altervista.org/img/loghi_tv/virgintv.png" group-title="",VirginRadio
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/RTL_102.5_%28logo%29.png" group-title="",RTL 102.5
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://api.superguidatv.it/v1/channels/243/logo?width=240" group-title="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
  
 #EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radiofreccia.png" group-title="",Radio Freccia
@@ -250,4 +248,4 @@ https://streamcdnr10-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z
 https://streamcdnr16-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
  
 #EXTINF:-1 tvg-ID="RadioMonteCarloTV.it" tvg-name="RadioMonteCarloTV.it" tvg-logo="http://116.202.210.205/icn/icons/radiomontecarlotv.png" group-title="",Radio Monte Carlo
-https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
