@@ -188,7 +188,7 @@ https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonito.png" group-title="",Cartoonito
-live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Nasa.it" tvg-name="Nasa.it" tvg-logo="http://logo.premium-ott.com:8000/logo/nasa.png" group-title="",Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
