@@ -214,9 +214,6 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/companytv.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioPiterpanTV.it" tvg-name="RadioPiterpanTV.it" tvg-logo="http://116.202.210.205/icn/icons/radiopiterpantv.png" group-title="",Piterpan
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/r101.png" group-title="",R101
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8 
  
