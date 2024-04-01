@@ -148,7 +148,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://commons.m.wikimedia.org/wiki/Category:Videolina?uselang=it#/media/File%3AVideolina_Logo.png" group-title="",Videolina
+#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="logo.premium-ott.com:8000/logo/videolina.png" group-title="",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
   
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
