@@ -44,31 +44,31 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WBtv.it" tvg-logo="https://seeklogo.com/images/W/warner-tv-italy-logo-01F60752BC-seeklogo.com.png" group-title="",WBtv
-https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
-https://i.mjh.nz/SamsungTVPlus/ITBD4400008Z5.m3u8
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo.it" tvg-logo="http://116.202.210.205/icn/icons/giallo.png" group-title="",Giallo
-https://i.mjh.nz/SamsungTVPlus/ITBD44000047C.m3u8
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend.it" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png" group-title="",MotorTrend
-https://i.mjh.nz/SamsungTVPlus/ITBD4400009JI.m3u8
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FoodNetwork.it" tvg-logo="http://116.202.210.205/icn/icons/foodnetwork.png" group-title="",Food Network
-https://i.mjh.nz/SamsungTVPlus/ITBD4400002Q8.m3u8
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://116.202.210.205/icn/icons/realtime.png" group-title="",Real Time
-https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="http://logo.premium-ott.com:8000/logo/dmax.png" group-title="",DMAX
-https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV.it" tvg-logo="http://116.202.210.205/icn/icons/hgtv.png" group-title="",HGTV
-https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="",Rakuten Azione
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/c3f10e42-f806-4c05-90aa-b481108339d3/4.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Film Azione" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png" group-title="",Pluto Azione 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
@@ -80,7 +80,7 @@ https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 tvg-id="Film top - Rakuten TV" tvg-name="Film top - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBAJ4900011Y4_20200923T100442.png" group-title="",Rakuten Film 
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/8f0aff54-ba59-4d46-8762-cd254c1fe3ff/4.m3u8
  
 #EXTINF:-1 tvg-id="Plutotvfilm.it" tvg-name="Plutotvfilm.it" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG.png" group-title="",Pluto Film
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
@@ -176,10 +176,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2.it" tvg-logo="http://116.202.210.205/icn/icons/k2.png" group-title="",K2
-https://i.mjh.nz/SamsungTVPlus/ITBD440000698.m3u8
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="http://logo.premium-ott.com:8000/logo/frisbee.png" group-title="",Frisbee
-https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
