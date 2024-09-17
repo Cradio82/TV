@@ -112,7 +112,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f00071975
 #EXTINF:-1 tvg-id="Bizzarro Movies" tvg-name="Bizzarro Movies" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/50/ITBA3300024IU_20201118T003353.png" group-title="",Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="ITBA33000238E" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="",Cinema Italiano
+#EXTINF:-1 tvg-id="Cinema Italiano" tvg-name="Cinema Italiano" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="",Cinema Italiano
 https://6e7b0ca5587e4580a2922d0853ee0498.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_CinemaSegreto/playlist.m3u8?
  
 #EXTINF:-1 tvg-id="ITBB20000072M" tvg-name="ITBB20000072M" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ITBB20000072M_20210908T010329.png" group-title="",WP Western Peplum
