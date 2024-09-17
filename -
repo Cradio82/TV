@@ -73,7 +73,7 @@ https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Pluto TV Film Azione" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png" group-title="",Pluto Azione 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="IT1800001W9" tvg-name="IT1800001W9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800001W9_20240507T093330SQUARE.png" group-title="",Rakuten Fantascienza
+#EXTINF:-1 tvg-id="IT1800001W9" tvg-name="IT1800001W9" tvg-logo="https://images-1.rakuten.tv/storage/list-image/brandable-photo/ca53b661-d5cd-4617-b62b-cebd8e5873e1.png" group-title="",Rakuten Fantascienza
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Film Thriller" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" group-title="",Pluto Thriller 
@@ -97,7 +97,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833cc
 #EXTINF:-1 tvg-id="Pluto TV Film Commedia" tvg-name="Pluto TV Film Commedia" tvg-logo="https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png" group-title="",Pluto Commedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id="IT1900001RK" tvg-name="IT1900001RK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/86/CAAJ2700008QA_20200819T020420.png" group-title="",Rakuten Asiatici
+#EXTINF:-1 tvg-id="IT1900001RK" tvg-name="IT1900001RK" tvg-logo="https://images-3.rakuten.tv/storage/list-image/brandable-photo/73dc65a5-d2b2-4849-88b1-3d9dff70d2c5.png" group-title="",Rakuten Asiatici
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Film Classici" tvg-name="Pluto TV Film Classici" tvg-logo="https://images.pluto.tv/channels/608aa3c446d73500075f0e24/colorLogoPNG.png" group-title="",Pluto Classici
