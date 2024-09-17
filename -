@@ -106,9 +106,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e
 #EXTINF:-1 tvg-id="Drama - Rakuten TV" tvg-name="Drama - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/ITAJ4500020HT_20210923T010631.png" group-title="",Rakuten Drammatico
 https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Pluto TV Film Drama" tvg-name="Pluto TV Film Drama" tvg-logo="https://images.pluto.tv/channels/608aa42b5c2b8f0007197529/colorLogoPNG.png" group-title="",Pluto Drammatico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
- 
 #EXTINF:-1 tvg-id="Bizzarro Movies" tvg-name="Bizzarro Movies" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/50/ITBA3300024IU_20201118T003353.png" group-title="",Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
  
@@ -159,10 +156,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132
  
 #EXTINF:-1 tvg-id="Pluto TV Natura" tvg-name="Pluto TV Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="",Pluto Natura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
- 
-#EXTINF:-1 tvg-id="Pluto TV Family" tvg-name="Pluto TV Family" tvg-logo="https://images.pluto.tv/channels/6123742451cce0000789fc7a/colorLogoPNG.png" group-title="",Pluto Family 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
- 
+
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="http://116.202.210.205/icn/icons/raiyoyo.png" group-title="",Rai YoYo 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
  
