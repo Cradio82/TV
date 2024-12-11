@@ -101,13 +101,10 @@ https://006280332e644bb9badb80cb614c00b6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Pluto TV Film Classici" tvg-name="Pluto TV Film Classici" tvg-logo="https://images.pluto.tv/channels/608aa3c446d73500075f0e24/colorLogoPNG.png" group-title="",Pluto Classici
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-id=IT2600005ZN" tvg-name="IT2600005ZN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/ITAJ4500020HT_20210923T010631.png" group-title="",Rakuten Drammatico
+#EXTINF:-1 tvg-id="IT2600005ZN" tvg-name="IT2600005ZN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/ITAJ4500020HT_20210923T010631.png" group-title="",Rakuten Drammatico
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/b008237d-4d08-415a-932d-98ce9b0819f8/4.m3u8
  
-#EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="ITBA33000238E" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/50/ITBA3300024IU_20201118T003353.png" group-title="",Cinema Poliziottesco 
-https://6e7b0ca5587e4580a2922d0853ee0498.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_CinemaSegreto/91c41356-de2b-4e0c-9b94-bad7caa9d103/2.m3u8
- 
-#EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="ITBA33000238E" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="",Cinema Italiano
+#EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="ITBA33000238E" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="",Cinema Poliziottesco
 https://6e7b0ca5587e4580a2922d0853ee0498.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_CinemaSegreto/playlist.m3u8?
  
 #EXTINF:-1 tvg-id="Pluto TV Crime" tvg-name="Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG.png" group-title="",Pluto Crime
