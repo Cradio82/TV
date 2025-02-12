@@ -19,7 +19,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="http://116.202.210.205/icn/icons/italia2.png" group-title="",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="http://185.254.198.164/images/logos/it/20mediaset.png" group-title="",20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/hd/20-hd-it.png" group-title="",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/768px-Twentyseven_logo.svg.png" group-title="",Twenty Seven
@@ -134,7 +134,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it"tvg-logo="http://odmsto.com/uploads/tv_image/sm/videolina.png" group-title="",Videolina
+#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/videolina-it.png" group-title="",Videolina
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
   
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
@@ -161,13 +161,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2.it" tvg-logo="http://116.202.210.205/icn/icons/k2.png" group-title="",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="http://logo.premium-ott.com:8000/logo/frisbee.png" group-title="",Frisbee
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/frisbee-it.png" group-title="",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonito.png" group-title="",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cartoonito-it.png" group-title="",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Il Banco Dei Pugni" tvg-name="Pluto TV Il Banco Dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="",Il Banco Dei Pugni
@@ -188,7 +188,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/companytv.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/r101.png" group-title="",R101
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/r101-tv-it.png" group-title="",R101
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8 
  
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio105TV.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radio105.png" group-title="",105
@@ -200,7 +200,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://iconape.com/wp-content/files/ro/285907/png/RTL_102_5-logo.png" group-title="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
  
-#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radiofreccia.png" group-title="",Radio Freccia
+#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png" group-title="",Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
  
 #EXTINF:-1 tvg-id="radiozeta.it" tvg-name="radiozeta.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Radio_Zeta_-_Logo_2020.svg/240px-Radio_Zeta_-_Logo_2020.svg.png" group-title="",Radio Zeta
