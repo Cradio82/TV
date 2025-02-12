@@ -40,7 +40,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WBtv.it" tvg-logo="https://seeklogo.com/images/W/warner-tv-italy-logo-01F60752BC-seeklogo.com.png" group-title="",WBtv
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WBtv.it" tvg-logo="https://seeklogo.com/images/W/warner-tv-italy-logo-01F60752BC-seeklogo.com.png"",group-title="",WBtv
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
@@ -134,7 +134,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="http://logo.premium-ott.com:8000/logo/videolina.png" group-title="",Videolina
+#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it"tvg-logo="http://logo.premium-ott.com:8000/logo/videolina.png" group-title="",Videolina
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
   
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
