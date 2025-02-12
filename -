@@ -19,7 +19,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="http://116.202.210.205/icn/icons/italia2.png" group-title="",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/20-hd-it.png" group-title="",20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/20-it.png" group-title="",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/768px-Twentyseven_logo.svg.png" group-title="",Twenty Seven
@@ -34,7 +34,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
  
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="",Focus
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/focus-it.png" group-title="",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
@@ -49,7 +49,7 @@ https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo.it" tvg-logo="http://116.202.210.205/icn/icons/giallo.png" group-title="",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend.it" tvg-logo="http://logo.premium-ott.com:8000/logo/motortrend.png" group-title="",MotorTrend
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png" group-title="",MotorTrend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FoodNetwork.it" tvg-logo="http://116.202.210.205/icn/icons/foodnetwork.png" group-title="",Food Network
@@ -58,7 +58,7 @@ https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://116.202.210.205/icn/icons/realtime.png" group-title="",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="http://logo.premium-ott.com:8000/logo/dmax.png" group-title="",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/dmax-uk.png" group-title="",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV.it" tvg-logo="http://116.202.210.205/icn/icons/hgtv.png" group-title="",HGTV
@@ -134,7 +134,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/videolina-it.png" group-title="",Videolina
+#EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/videolina-it.png" group-title="",Videolina
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
   
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
@@ -161,13 +161,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2.it" tvg-logo="http://116.202.210.205/icn/icons/k2.png" group-title="",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/frisbee-it.png" group-title="",Frisbee
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/frisbee-it.png" group-title="",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="http://116.202.210.205/icn/icons/boing.png" group-title="",Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
  
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cartoonito-it.png" group-title="",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="Pluto TV Il Banco Dei Pugni" tvg-name="Pluto TV Il Banco Dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="",Il Banco Dei Pugni
@@ -200,7 +200,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL102.5TV.it" tvg-logo="https://iconape.com/wp-content/files/ro/285907/png/RTL_102_5-logo.png" group-title="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
  
-#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="",Radio Freccia
+#EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-freccia-it.png" group-title="",Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
  
 #EXTINF:-1 tvg-id="radiozeta.it" tvg-name="radiozeta.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Radio_Zeta_-_Logo_2020.svg/240px-Radio_Zeta_-_Logo_2020.svg.png" group-title="",Radio Zeta
