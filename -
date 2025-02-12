@@ -34,13 +34,13 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
  
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/focus-it.png" group-title="",Focus
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Focus_logo_gross_2017.jpeg/800px-Focus_logo_gross_2017.png" group-title="",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WBtv.it" tvg-logo="https://www.telefoniatech.it/wp-content/uploads/2022/10/Warner-TV_LOGo-grigio-T.png" group-title="",WBtv
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WBtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/765px-Warner_TV_Italy.svg.png" group-title="",WBtv
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
@@ -185,7 +185,7 @@ https://rakuten-euronews-3-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="RadioItaliaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/512px-Radio_Italia_logo_%282020%29.svg.png" group-title="",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
  
-#EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="https://it.wikipedia.org/wiki/Radio_Company#/media/File:Radio-Company-2022.png" group-title="",Company 
+#EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio-Company-2022.png/640px-Radio-Company-2022.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/r101-tv-it.png" group-title="",R101
@@ -209,7 +209,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:-1 tvg-id="myDeejay.it" tvg-name="DeejayTV.it" tvg-logo="http://116.202.210.205/icn/icons/deejaytv.png" group-title="",Deejay 
 https://streamcdnr6-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
  
-#EXTINF:-1 tvg-id="RadioCapital.it" tvg-name="RadioCapital.it" tvg-logo="http://logo.premium-ott.com:8000/logo/radiocapital.png" group-title="",Capital
+#EXTINF:-1 tvg-id="RadioCapital.it" tvg-name="RadioCapital.it" tvg-logo="http://www.lepersonalbookshopper.it/wp-content/uploads/2016/11/radio-capital-logo1.png" group-title="",Capital
 https://streamcdnr10-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
  
 #EXTINF:-1 tvg-ID="m2oTV.it" tvg-name="m2oTV.it " tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="",m2o
