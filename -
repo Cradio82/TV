@@ -129,7 +129,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo-sardegna-1.jpg/960px-Logo-sardegna-1.png"" group-title="",Sardegna Uno
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+https://streamcdnf35-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
   
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
