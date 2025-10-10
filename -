@@ -179,7 +179,7 @@ https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
  
-#EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="https://iconape.com/wp-content/files/ks/283252/png/283252.png" group-title="",Company 
+#EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="https://images.seeklogo.com/logo-png/11/1/radio-company-logo-png_seeklogo-115136.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/r101-tv-it.png" group-title="",R101
