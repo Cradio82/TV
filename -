@@ -40,7 +40,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="anni80.it" tvg-name="anni80.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20250610T011151SQUARE.png" group-title="",Serially
+#EXTINF:-1 tvg-id="serially.it/asset/80anni" tvg-name="serially.it/asset/80anni" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20250610T011151SQUARE.png" group-title="",Serially
 https://jmp2.uk/stvp-IT9000023T
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
