@@ -40,8 +40,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WBtv.it" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/8/82/WBTV_Logo.png/revision/latest?cb=20150917021232.png" group-title="",WBtv
-https://jmp2.uk/stvp-IT900012M7
+#EXTINF:-1 tvg-id="serially.it/" tvg-name="serially.it/" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20250610T011151SQUARE.png" group-title="",Serially
+https://jmp2.uk/stvp-IT9000023T
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
 https://jmp2.uk/stvp-IT9000060Q
