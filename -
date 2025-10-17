@@ -134,7 +134,7 @@ https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/vide
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sardegna1.png" group-title="",Sardegna Uno
 https://streamcdnf35-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sardegnalive.it" tvg-name="Sardegnalive.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sardegna-live-test.jpg" group-title="",Sardegna Live
+#EXTINF:-1 tvg-id="Sardegnalive.it" tvg-name="Sardegnalive.it" tvg-logo="https://iconape.com/wp-content/files/cl/256743/png/sardegna-turismo-logo.png" group-title="",Sardegna Live
 https://live-par-2-abr-ln-cdn.livepush.io/live_abr_cdn/em3J2nBNarDKZhU/index.m3u8
   
 #EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RaiSport.it" tvg-logo="http://116.202.210.205/icn/icons/raisportplus.png" group-title="",Rai Sport +
@@ -185,7 +185,7 @@ https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="",Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
  
-#EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="https://iconape.com/wp-content/files/ks/283252/png/283252.png" group-title="",Company 
+#EXTINF:-1 tvg-id="RadioCompanyTV.it" tvg-name="RadioCompanyTV.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/company-tv.png" group-title="",Company 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/r101-tv-it.png" group-title="",R101
