@@ -67,6 +67,12 @@ https://jmp2.uk/stvp-IT9000113W
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV.it" tvg-logo="http://116.202.210.205/icn/icons/hgtv.png" group-title="",HGTV
 https://jmp2.uk/stvp-IT900003FU
 
+#EXTINF:-1 tvg-id="Pluto TV Totò" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG.png" group-title="",Pluto TV Totò
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=0e600281-f7b5-4314-9ee5-5cdd1d491656&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ac3c7fe9-ca47-4080-89a1-8869f7c1f2dc&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Pluto TV Alberto Sordi" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://media2.nekropole.info/2012/06/75503.jpg" group-title="",Pluto TV Alberto Sordi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=7a53c82a-2c29-4820-8552-21b63c06d87a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ae4a7971-54ba-4e3e-b13b-d451c3786e6a&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="",Rakuten Azione
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8?
 
@@ -84,14 +90,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa17fb9f4490007
   
 #EXTINF:-1 tvg-id="Commedia - Rakuten TV" tvg-name="Commedia - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/ITAJ4500019R9_20210923T010508.png" group-title="",Rakuten Commedia
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8?
-
-#EXTINF:-1 tvg-id="Pluto TV Totò" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG.png" group-title="",Pluto TV Totò
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=0e600281-f7b5-4314-9ee5-5cdd1d491656&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ac3c7fe9-ca47-4080-89a1-8869f7c1f2dc&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-id="Pluto TV Alberto Sordi" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/SottoilsolediRoma-1948-Sordi.png" group-title="",Pluto TV Alberto Sordi
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=7a53c82a-2c29-4820-8552-21b63c06d87a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ae4a7971-54ba-4e3e-b13b-d451c3786e6a&userId=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-id="Pluto TV Film Commedia" tvg-name="Pluto TV Film Commedia" tvg-logo="https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png" group-title="",Pluto Commedia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=4ca06194-acf7-4d95-b5a2-b7010913a8c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=2808956a-c032-4ab2-bbf3-a9e7f7e25fcc&userId=&serverSideAds=true
