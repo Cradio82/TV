@@ -70,7 +70,7 @@ https://jmp2.uk/stvp-IT900003FU
 #EXTINF:-1 tvg-id="Pluto TV Totò" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG.png" group-title="",Pluto TV Totò
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=0e600281-f7b5-4314-9ee5-5cdd1d491656&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ac3c7fe9-ca47-4080-89a1-8869f7c1f2dc&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Pluto TV Alberto Sordi" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://media2.nekropole.info/2012/06/75503.jpg" group-title="",Pluto TV Alberto Sordi
+#EXTINF:-1 tvg-id="Pluto TV Alberto Sordi" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250513T010703SQUARE.png" group-title="",Pluto TV Alberto Sordi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=7a53c82a-2c29-4820-8552-21b63c06d87a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ae4a7971-54ba-4e3e-b13b-d451c3786e6a&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="",Rakuten Azione
