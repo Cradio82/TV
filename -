@@ -134,10 +134,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
  
 #EXTINF:-1 tvg-id="Pluto TV Documentari" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="",Pluto Documentari
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
- 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=da458a94-195d-4f60-aaad-46537d68fd5d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=d30ee5e7-e16c-4457-8cb2-0c4a595ffc66&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="Pluto TV Natura" tvg-name="Pluto TV Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="",Pluto Natura
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=9b7da7dc-ec29-41a5-b97a-573d8712670a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=6c0c0bd8-88fa-425a-b100-26f4324b27d9&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="http://116.202.210.205/icn/icons/raiyoyo.png" group-title="",Rai YoYo 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
