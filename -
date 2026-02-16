@@ -36,7 +36,10 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
- 
+
+#EXTINF:-1 channel-id="IT3200006YF" tvg-id="IT3200006YF" tvg-chno="4076" tvg-name="Mudù - Risate dal Sud" tvg-logo="https://mudu.it/wp-content/uploads/2023/02/cropped-logo_anteprima-1.png" group-title="Samsung Channels",Mudù 
+https://jmp2.uk/stvp-IT3200006YF
+
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="https://iconape.com/wp-content/files/vv/58688/png/focusmedia-1.png"group-title="",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
  
@@ -136,9 +139,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 #EXTINF:-1 tvg-id="Pluto TV Documentari" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="",Pluto Documentari
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=da458a94-195d-4f60-aaad-46537d68fd5d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=d30ee5e7-e16c-4457-8cb2-0c4a595ffc66&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Pluto TV Natura" tvg-name="Pluto TV Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="",Pluto Natura
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=9b7da7dc-ec29-41a5-b97a-573d8712670a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=6c0c0bd8-88fa-425a-b100-26f4324b27d9&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="http://116.202.210.205/icn/icons/raiyoyo.png" group-title="",Rai YoYo 
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
  
@@ -190,7 +190,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTINF:-1 tvg-id="Ondasarda.it" tvg-name="Ondasarda.it" tvg-logo="https://www.ondasarda.it/wp-content/uploads/2025/11/cropped-logoRadioOndaSarda_512x512.png" group-title="",Radio Onda Sarda
 https://604e46ac2bdee.streamlock.net:1936/radiosardegna/radiosardegna/chunklist_w860469672.m3u8
 
-#EXTINF:-1 tvg-id="Ondastereo.it" tvg-name="Ondastereo.it" tvg-logo="https://play-lh.googleusercontent.com/qxtxrax9nc6-5Wt1hL5SP21BCenloH3myhnP9vxFrMcVUJcDcs4G_SXMFesqValU9gA" group-title="",Onda Stereo
+#EXTINF:-1 tvg-id="Ondastereo.it" tvg-name="Ondastereo.it" tvg-logo="https://play-lh.googleusercontent.com/qxtxrax9nc6-5Wt1hL5SP21BCenloH3myhnP9vxFrMcVUJcDcs4G_SXMFesqValU9gA=w240-h480-rw" group-title="",Onda Stereo
 https://585b674743bbb.streamlock.net/9032/9032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioFreccia.it" tvg-name="RadioFreccia.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/radio-freccia-it.png" group-title="",Radio Freccia
