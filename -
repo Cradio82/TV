@@ -58,7 +58,7 @@ https://jmp2.uk/stvp-IT9000081B
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="DiscoveryTurbo.it" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="",Turbo
 https://jmp2.uk/stvp-IT900004Y5
 
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FoodNetwork.it" tvg-logo="http://116.202.210.205/icn/icons/foodnetwork.png" group-title="",Food Network
+#EXTINF:-1 tvg-id="IT90001094" tvg-name="IT90001094" tvg-logo="http://116.202.210.205/icn/icons/foodnetwork.png" group-title="",Food Network
 https://jmp2.uk/stvp-IT90001094
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://116.202.210.205/icn/icons/realtime.png" group-title="",Real Time
