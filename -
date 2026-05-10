@@ -31,7 +31,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="http://116.202.210.205/icn/icons/iris.png" group-title="",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="La7cinema.it" tvg-name="La7cinema.it" tvg-logo="http://116.202.210.205/icn/icons/la7cinema.png" group-title="",La 7 Cinema
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7Cinema.it" tvg-logo="http://116.202.210.205/icn/icons/la7cinema.png" group-title="",La 7 Cinema
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
