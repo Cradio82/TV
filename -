@@ -1,11 +1,11 @@
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1 
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
  
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="http://116.202.210.205/icn/icons/rai2.png" group-title="",Rai 2 
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
  
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="http://116.202.210.205/icn/icons/rai3.png" group-title="",Rai 3
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
  
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="http://116.202.210.205/icn/icons/rete4.png" group-title="",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
@@ -49,27 +49,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="IT9000023T" tvg-name="IT9000023T" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1993-LG-Logo-PNG-100x100_v1.png" group-title="",80 Anni - 2a Guerra Mondiale
 https://jmp2.uk/stvp-IT9000023T
 
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove.it" tvg-logo="http://116.202.210.205/icn/icons/nove.png" group-title="",Nove
-https://jmp2.uk/stvp-IT9000060Q
-
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo.it" tvg-logo="http://116.202.210.205/icn/icons/giallo.png" group-title="",Giallo
-https://jmp2.uk/stvp-IT9000081B
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="DiscoveryTurbo.it" tvg-logo="http://epg-guide.com/icn/icons/discoveryturbo.png" group-title="",Turbo
-https://jmp2.uk/stvp-IT900004Y5
-
-#EXTINF:-1 tvg-id="IT90001094" tvg-name="IT90001094" tvg-logo="http://116.202.210.205/icn/icons/foodnetwork.png" group-title="",Food Network
-https://jmp2.uk/stvp-IT90001094
-
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="RealTime.it" tvg-logo="http://116.202.210.205/icn/icons/realtime.png" group-title="",Real Time
-https://jmp2.uk/stvp-IT900007I0
-
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png" group-title="",DMAX
-https://jmp2.uk/stvp-IT9000113W
-
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV.it" tvg-logo="http://116.202.210.205/icn/icons/hgtv.png" group-title="",HGTV
-https://jmp2.uk/stvp-IT900003FU
-
 #EXTINF:-1 tvg-id="Pluto TV Totò" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG.png" group-title="",Pluto TV Totò
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65253f9881f942000833ccd5/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=0e600281-f7b5-4314-9ee5-5cdd1d491656&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ac3c7fe9-ca47-4080-89a1-8869f7c1f2dc&userId=&serverSideAds=true
 
@@ -77,7 +56,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65253f9881f9420008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/661f8f01801af800083d9d81/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=7a53c82a-2c29-4820-8552-21b63c06d87a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=ae4a7971-54ba-4e3e-b13b-d451c3786e6a&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Film d'azione - Rakuten TV" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/15/ITAJ45000188Z_20210923T010833.png" group-title="",Rakuten Azione
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8?
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.
+.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8?
 
 #EXTINF:-1 tvg-id="IT260000131" tvg-name="IT260000131" tvg-logo="https://images-1.rakuten.tv/storage/list-image/brandable-photo/ca53b661-d5cd-4617-b62b-cebd8e5873e1.png" group-title="",Rakuten Fantascienza
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8?
