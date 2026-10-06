@@ -101,9 +101,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RaiPremium.it" tvg-logo="http://116.202.210.205/icn/icons/raipremium.png" group-title="",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
  
-#EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="http://116.202.210.205/icn/icons/la5.png" group-title="",La 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
- 
 #EXTINF:-1 tvg-id="Videolina.it" tvg-name="Videolina.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/videolina-it.png"" group-title="",Videolina
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(Nh206N-YCLk6zEaTaT8ETWwLj4fxKz4f2j0TlS31eyOAXNkuI-61OZN4LBwGzsX1h6E9aP4mRLtsTgq0c-ELD1DWhOqv4r6lA3afCLxge3V_lXkbzwao-yTPEsK2fCdg)/cloud/3/xa0aoxk/d/live-720.m3u8#cell=lcf2-eu-north-1b
 
