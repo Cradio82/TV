@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205/icn/icons/rai1.png" group-title="",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="http://116.202.210.205
+/icn/icons/rai1.png" group-title="",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
  
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="http://116.202.210.205/icn/icons/rai2.png" group-title="",Rai 2 
@@ -37,7 +38,7 @@ https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="http://116.202.210.205/icn/icons/la7.png" group-title="",La 7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
-#EXTINF:-1 tvg-id="IT3200006YF" tvg-name="IT3200006YF" tvg-logo="https://mudu.it/wp-content/uploads/2023/02/cropped-logo_anteprima-1.png" group-title="Samsung Channels",Mudù 
+#EXTINF:-1 tvg-id="IT3200006YF" tvg-name="IT3200006YF" tvg-logo="https://mudu.it/wp-content/uploads/2023/02/cropped-logo_anteprima-1.png" group-title="",Mudù 
 https://jmp2.uk/stvp-IT3200006YF
 
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus.it" tvg-logo="https://iconape.com/wp-content/files/vv/58688/png/focusmedia-1.png"group-title="",Focus
@@ -46,25 +47,25 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="http://116.202.210.205/icn/icons/topcrime.png" group-title="",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Nove" tvg-name="https://i.imgur.com/Hp723RU.png" group-title="Italy",Nove
+#EXTINF:-1 tvg-id="Nove" tvg-name="https://i.imgur.com/Hp723RU.png" group-title="",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Turbo" tvg-name="https://i.imgur.com/TjjVjV0.png" tvg-id="Motor.Trend.it" tvg-chno="59" tvg-country="IT" group-title="Italy",Turbo
+#EXTINF:-1 tvg-id="Turbo" tvg-name="https://i.imgur.com/TjjVjV0.png" tvg-id="Motor.Trend.it" tvg-chno="59" tvg-country="IT" group-title="",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Giallo" tvg-name="https://i.imgur.com/0PIRwZS.png" tvg-id="Giallo.TV.it" tvg-chno="38" tvg-country="IT" group-title="Italy",Giallo
+#EXTINF:-1 tvg-id="Giallo" tvg-name="https://i.imgur.com/0PIRwZS.png" tvg-id="Giallo.TV.it" tvg-chno="38" tvg-country="IT" group-title="",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="DMAX" tvg-name="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAX.it" tvg-chno="52" tvg-country="IT" group-title="Italy",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAX.it" tvg-chno="52" tvg-country="IT" group-title="",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Real Time" tvg-name="https://i.imgur.com/9dcTYg1.png" tvg-id="Real.Time.it" tvg-chno="31" tvg-country="IT" group-title="Italy",Real Time
+#EXTINF:-1 tvg-id="Real Time" tvg-name="https://i.imgur.com/9dcTYg1.png" tvg-id="Real.Time.it" tvg-chno="31" tvg-country="IT" group-title="",Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Food Network" tvg-name="https://i.imgur.com/i60OYr9.png" tvg-id="Food.Network.it" tvg-chno="33" tvg-country="IT" group-title="Italy",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="https://i.imgur.com/i60OYr9.png" tvg-id="Food.Network.it" tvg-chno="33" tvg-country="IT" group-title="",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" tvg-chno="56" tvg-country="IT" group-title="Italy",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" tvg-chno="56" tvg-country="IT" group-title="It",HGTV
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="IT9000023T" tvg-name="IT9000023T" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1993-LG-Logo-PNG-100x100_v1.png" group-title="",80 Anni - 2a Guerra Mondiale
